@@ -1,4 +1,4 @@
-## Choose your database type (default is "SQL ANSI")
+## Choose your target database type (default is "SQL ANSI")
 ## #set ( $env.database = 'postgresql' )
 ## #set ( $env.database = 'mysql' )
 ## #set ( $env.database = 'oracle' )
